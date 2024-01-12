@@ -1,0 +1,9 @@
+Extract text and text in the header (purple color) and output data in JSON format for each image individually as:
+{
+Columns: Rows
+id: extracted id (top line in image)
+area_code: extracted area_code (2nd top line in image)
+Address: extracted_address
+Consumer Name: extracted_name
+}
+Make sure to read the text in purple. 
