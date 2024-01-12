@@ -1,11 +1,8 @@
-Generated new keypair and alias for address with scheme "ed25519" [musing-labradorite: 0xb69eb08d67824f450940b9297d5f0486c894466d0e6d142a4244b65c2b368f3a]
-Secret Recovery Phrase : [govern bonus author excess aisle rack dawn maid cliff axis boss ten]
-
-
 Package Id: 0xdcc0ff2c8ed0c4cc133d91de600603f1a1029eddec18990deab85d323677a29e
 Treasure Cap ID: 0x6e4f88ee06a739056b9bebaa95d61d9f4e385e59e042837a040e0a7daf7b13b8
 Recipient Address: 0xb69eb08d67824f450940b9297d5f0486c894466d0e6d142a4244b65c2b368f3a
 
+# Run Command
 export PACKAGE_ID=0xdcc0ff2c8ed0c4cc133d91de600603f1a1029eddec18990deab85d323677a29e
 export TREASURYCAP_ID=0x6e4f88ee06a739056b9bebaa95d61d9f4e385e59e042837a040e0a7daf7b13b8
 export RECIPIENT_ADDRESS=0xb69eb08d67824f450940b9297d5f0486c894466d0e6d142a4244b65c2b368f3a
